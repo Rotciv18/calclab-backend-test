@@ -1,0 +1,59 @@
+Exame: FLUORETO
+Resultado: 1,2 MG/G
+Material: URINA
+Método: Ise Indireto ­ Íon Seletivo
+
+Exame: CÁDMIO
+Resultado: 34 μg/L
+Material: Sangue
+Método: Westergreen
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ligula magna,
+iaculis et nunc ut, rhoncus interdum justo. Fusce dapibus mauris ac justo gravida vestibulum.
+Sed id diam suscipit, luctus massa non, fermentum eros. Cras non ligula bibendum, molestie nibh vitae, vestibulum metus.
+Ut luctus a mi ac vulputate. Donec ultrices eget quam ac pellentesque.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Suspendisse vel ligula accumsan, aliquam leo id, aliquam purus. Suspendisse blandit ac nisl id efficitur.
+Etiam neque risus, commodo id nunc ut, gravida sodales diam.
+
+Exame: CORTISOL
+Resultado: 0,04       mg/dL
+Material: Soro
+Método: Turbidimétrico
+
+Exame: RETICULÓCITOS VALOR ABSOLUTO
+Resultado: 14 x 10³/mm3
+Material: SANGUE TOTAL COM EDTA
+Método: Turbidimétrico
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ligula magna,
+iaculis et nunc ut, rhoncus interdum justo. Fusce dapibus mauris ac justo gravida vestibulum.
+Sed id diam suscipit, luctus massa non, fermentum eros. Cras non ligula bibendum, molestie nibh vitae, vestibulum metus.
+Ut luctus a mi ac vulputate. Donec ultrices eget quam ac pellentesque.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Suspendisse vel ligula accumsan, aliquam leo id, aliquam purus. Suspendisse blandit ac nisl id efficitur.
+Etiam neque risus, commodo id nunc ut, gravida sodales diam.
+
+
+
+Exame:      ARSÊNICO
+Resultado:                  1,5          mcg/L
+Material: SANGUE TOTAL COM EDTA
+Método: Turbidimétrico
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ligula magna,
+iaculis et nunc ut, rhoncus interdum justo. Fusce dapibus mauris ac justo gravida vestibulum.
+Sed id diam suscipit, luctus massa non, fermentum eros. Cras non ligula bibendum, molestie nibh vitae, vestibulum metus.
+Ut luctus a mi ac vulputate. Donec ultrices eget quam ac pellentesque.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Suspendisse vel ligula accumsan, aliquam leo id, aliquam purus. Suspendisse blandit ac nisl id efficitur.
+Etiam neque risus, commodo id nunc ut, gravida sodales diam.
+
+
+Exame: DOSAGEM DE CREATININA
+Resultado: 68 fl
+Material : SANGUE TOTAL COM EDTA
+
